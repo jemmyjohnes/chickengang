@@ -128,5 +128,6 @@ Bot.onAnyMessage = function(msg) {
 		}
 	}
 };
+client.login(process.env.NDcxNzU0MzkxOTE4MjE1MTY4.Dng1cA.dWVM-fFHmZnEkjJEqHCSX_vZZ5Y)
 
 module.exports = Bot;
