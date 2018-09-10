@@ -65,7 +65,7 @@ Bot.initEvents = function() {
 };
 
 Bot.login = function() {
-	this.bot.login(this.DBM.Files.data.settings.token);
+	this.bot.login(this.DBM.Files.data.settings.NDcxNzU0MzkxOTE4MjE1MTY4.Dng1cA.dWVM-fFHmZnEkjJEqHCSX_vZZ5Y);
 };
 
 Bot.onReady = function() {
@@ -130,7 +130,7 @@ Bot.onAnyMessage = function(msg) {
 };
 
 module.exports = Bot;
-client.login(process.env.NDcxNzU0MzkxOTE4MjE1MTY4.Dng1cA.dWVM-fFHmZnEkjJEqHCSX_vZZ5Y)
+client.login(process.env.)
 }
 
 
